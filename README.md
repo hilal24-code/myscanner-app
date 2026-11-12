@@ -73,17 +73,6 @@ app/src/main/java/com/gamepadbridge/myscanner/
 - Lepas kertas dari plastik pelindung, karena kerutan dan pantulan cahaya tidak bisa diperbaiki oleh software.
 - Deskew otomatis hanya mengoreksi kemiringan sampai sekitar 25 derajat.
 
-## Rencana pengembangan
-
-- [ ] Tombol "Asli / Tingkatkan" per dokumen
-- [ ] Rotate dan crop manual per halaman
-- [ ] Urutkan ulang halaman
-- [ ] Zoom di viewer PDF
-- [ ] OCR (salin teks, cari isi dokumen, nama otomatis)
-- [ ] Kompres PDF dan password PDF
-- [ ] Tanda tangan
-- [ ] Tempat sampah dan kunci aplikasi
-
 ## Catatan
 
 Proyek ini masih dalam pengembangan. Angka-angka pada filter (batas warna, kekuatan blur dan sharpen) mungkin perlu disetel sesuai kondisi foto dan perangkat.
